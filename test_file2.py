@@ -3,9 +3,10 @@
 # Demonstration of Random
 
 import random
-die1 = random.randint(1,6)
+
+die1 = random.randint(1, 6)
 print("die:" + str(die1))
-die2 = random.randint(1,6)
+die2 = random.randint(1, 6)
 print("die:" + str(die1))
 roll = die1 + die2
 print("You rolled:" + str(roll))
@@ -13,3 +14,16 @@ print("You rolled:" + str(roll))
 print("We are done")
 
 # This is the official first draft, second push of this file
+
+
+
+
+##  THIS IS RODRIGO, Confirmed version working, pushing back
+
+##  ʘ‿ʘ
+
+##  ....
+## ...
+##  ☻/
+##  /
+##  / \
